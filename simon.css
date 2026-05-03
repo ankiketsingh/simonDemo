@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+}
+
+#rule{
+    margin-top: 30px;
+    font-size: 27px;
+    font-weight: 500;
+}
+
+.main{
+    margin: auto;
+    height: 550px;
+    width: 550px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+.main div{
+    height: 200px;
+    width: 200px;
+    /* background: #000; */
+    margin: 25px;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 35px;
+
+}
+.y{
+  background-color: rgb(188, 188, 59);
+}
+.g{
+    background-color: rgb(31, 131, 31);
+}
+
+.b{
+    background-color: rgb(100, 38, 159);
+
+}
+.s{
+    background-color: rgb(66, 136, 166);
+}
+
+.bgw{
+     background-color: white;
+}
+
+.bgb{
+    background-color: black;
+}
+
+.bgr{
+    background-color: red;
+}
